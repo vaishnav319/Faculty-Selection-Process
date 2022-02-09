@@ -68,5 +68,5 @@ based on new Recruitment.
 > ### Tech Stack:
 #### Front End:ReactJS 
 #### Back End: NodeJS. 
-#### Database: MySQL/MongoDB. 
+#### Database: MongoDB. 
 #### Development Tools: VS Code, Invision, Firebase.
