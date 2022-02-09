@@ -2,7 +2,7 @@
 ## This Project is regarding Faculty Selection process Data Maintenance which is done as a part of the Software Engineering course during the 6th semester(2022).
 > ### Team Members
 | Sl.no | Roll Numbers | Name | Role |
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          ---: |  ---: |
 | 1   |  CB.EN.U4CSE19206    | B.Madhav Shankar | Bussiness Analyst |
 | 2   |  CB.EN.U4CSE19226    | M.Krishna Teja | Report Writer |
 | 3   |  CB.EN.U4CSE19228    | M.Vaishnav | Developer |
@@ -66,7 +66,7 @@ based on new Recruitment.
 
 
 > ### Tech Stack:
-Front End:ReactJS
-Back End: NodeJS, Express Framework
-Database: MySQL/MongoDB
-Development Tools: VS Code, Invision, Firebase
+#### Front End:ReactJS 
+#### Back End: NodeJS. 
+#### Database: MySQL/MongoDB. 
+#### Development Tools: VS Code, Invision, Firebase.
