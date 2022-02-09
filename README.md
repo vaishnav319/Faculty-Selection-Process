@@ -1,14 +1,14 @@
 # Faculty-Selection-Process
 ## This Project is regarding Faculty Selection process Data Maintenance which is done as a part of the Software Engineering course during the 6th semester(2022).
 > ### Team Members
-| Sl.no | Roll Numbers | Name |
+| Sl.no | Roll Numbers | Name | Role |
 | :---         |     :---:      |          ---: |
-| 1   |  CB.EN.U4CSE19206    | B.Madhav Shankar |
-| 2   |  CB.EN.U4CSE19226    | M.Krishna Teja |
-| 3   |  CB.EN.U4CSE19228    | M.Vaishnav |
-| 4   |  CB.EN.U4CSE19233    | P.S.Ganesan|
-| 5   |  CB.EN.U4CSE19255    | V.S.Tharunika|
-| 6   |  CB.EN.U4CSE19257    | K.Varadharajan|
+| 1   |  CB.EN.U4CSE19206    | B.Madhav Shankar | Bussiness Analyst |
+| 2   |  CB.EN.U4CSE19226    | M.Krishna Teja | Report Writer |
+| 3   |  CB.EN.U4CSE19228    | M.Vaishnav | Developer |
+| 4   |  CB.EN.U4CSE19233    | P.S.Ganesan| Tester |
+| 5   |  CB.EN.U4CSE19255    | V.S.Tharunika| Scrum Master |
+| 6   |  CB.EN.U4CSE19257    | K.Varadharajan| Developer |
 
 ### Abstract
 This project serves the purpose of a middleman in the process of Faculty selectionbyhelping to initiate communication between the job provider and the job seeker
